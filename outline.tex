@@ -1,0 +1,37 @@
+\documentclass[letterpaper,titlepage]{article}
+\pagestyle{headings}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+\usepackage{titlesec}
+\usepackage{csquotes}
+\titleformat{\section}{\normalfont\Large\bfseries}{\S\ \thesection}{1em}{}
+\begin{document}
+
+\title{Constitutional Law}
+\author{Joshua Steele\\UC Berkeley School of Lawl}
+\date{Spring 2015\\Prof. Haney-L\'{o}pez}
+\maketitle
+\tableofcontents
+\pagebreak
+
+\input{sections/overview.tex}
+\newpage
+\input{sections/interpreting-the-constitution.tex}
+\newpage
+\input{sections/constitutional-crises.tex}
+\newpage
+\input{sections/the-modern-constitution.tex}
+\newpage
+\input{sections/national-power.tex}
+\newpage
+\input{sections/themes.tex}
+
+\end{document}
