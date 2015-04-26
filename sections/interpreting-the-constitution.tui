@@ -1,0 +1,15 @@
+c \thisissectionseparator{-}
+c \thisisutilityversion{2008.10.14}
+c \initializevariable\currentstrategypass{1}
+c \initializevariable\totalnofpositions{0}
+c \initializevariable\totalnofMPgraphics{0}
+c \initializevariable\totalnofparbackgrounds{0}
+f e {interpreting-the-constitution}
+c \initializevariable\lastpage{0}
+c \initializevariable\lastpagenumber{0}
+c \listentry{section}{1}{1}{Interpreting the Constitution}{2--0-0-1-0-0-0-0--1}{1}
+c \listentry{subsection}{2}{1.1}{Introduction to the Course}{2--0-0-1-1-0-0-0--1}{1}
+c \mainreference{}{fnt:f:1}{2--0-0-1-1-0-0-0--1}{1}{}
+c \mainreference{}{fnt:f:2}{2--0-0-1-1-0-0-0--1}{1}{}
+c \mainreference{}{fnt:t:1}{2--0-0-1-1-0-0-0--1}{1}{}
+c \mainreference{}{fnt:t:2}{2--0-0-1-1-0-0-0--1}{1}{}
