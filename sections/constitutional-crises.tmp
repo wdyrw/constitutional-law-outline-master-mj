@@ -1,11 +1,11 @@
-% interpreting-the-constitution.top
+% constitutional-crises.top
 \unprotect
 \def\MPOSTformatswitch{-progname=metafun -mem=}
 \setupsystem[\c!n=1,\c!m=1]
 \setupsystem[\c!method=2]
 \setupsystem[\c!type=macosx]
-\setupsystem[\c!random=1354]
-\setupsystem[inputfile=interpreting-the-constitution.tex]
+\setupsystem[\c!random=1113]
+\setupsystem[inputfile=constitutional-crises.tex]
 \startsetups *runtime:options
 \setupoutput[pdftex]
 \stopsetups

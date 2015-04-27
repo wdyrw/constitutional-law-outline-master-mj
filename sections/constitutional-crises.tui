@@ -1,0 +1,11 @@
+c \thisissectionseparator{-}
+c \thisisutilityversion{2008.10.14}
+c \initializevariable\currentstrategypass{1}
+c \initializevariable\totalnofpositions{0}
+c \initializevariable\totalnofMPgraphics{0}
+c \initializevariable\totalnofparbackgrounds{0}
+f e {constitutional-crises}
+c \initializevariable\lastpage{0}
+c \initializevariable\lastpagenumber{0}
+c \listentry{section}{1}{1}{Constitutional Crises}{2--0-0-1-0-0-0-0--1}{1}
+c \listentry{subsection}{2}{1.1}{Reconstruction}{2--0-0-1-1-0-0-0--1}{1}
